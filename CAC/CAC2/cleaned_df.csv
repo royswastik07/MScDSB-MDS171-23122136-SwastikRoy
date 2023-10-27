@@ -1,0 +1,384 @@
+Gender,Department,Year,TypeOfForm,AvgClaims,DeadlineExp,SignProcess,ProcessDificullty,DurationOfClaims,OpinionOnSubmission,ApprovalDetails,PreferedProcess,NeedOfExtension
+Female,MSC DS,1st Year,Medical form,0 - 25%,Bad,Bad,Hard,A couple of days,Bad,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Co-curricular form,0 - 25%,Bad,Need Improvement,Medium,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Average,Medium,More than a week,Average,Mostly approved,Online submission process,Yes
+Female,MSC EA,1st Year,Night-out form,25 - 50%,Average,Average,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,Medical form,0 - 25%,Good,Good,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,BA LLB,3rd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Good,Medium,A week,Average,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Co-curricular form,50 - 75%,Good,Good,Medium,A few hours,Good,Only a few,Online submission process,Yes
+Female,MSC DS,1st Year,None,25 - 50%,Bad,Bad,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Female,MSC DS,1st Year,None,50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,25 - 50%,Excellent,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,MSC DS,1st Year,Night-out form,25 - 50%,Average,Average,Medium,A few hours,Average,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,"Medical form, Night-out form",25 - 50%,Average,Bad,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,None,50 - 75%,Average,Average,Medium,A week,Average,Only a few,Online submission process,Maybe
+Male,MSC DS,1st Year,Night-out form,25 - 50%,Average,Bad,Hard,One day,Average,Mostly approved,Online submission process,Maybe
+Female,MSC DS,1st Year,Medical form,0 - 25%,Average,Good,Medium,A few hours,Average,Only a few,Online submission process,Yes
+Male,BBA LLB,2nd Year,Night-out form,0 - 25%,Needs Improvement,Average,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA LLB,2nd Year,Co-curricular form,0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BBA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BA LLB,5th Year,"Co-curricular form, Medical form",0 - 25%,Average,Bad,Hard,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Male,MSC DS,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Good,Need Improvement,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Female,BA LLB,2nd Year,Medical form,50 - 75%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Maybe
+Male,BSC EA,2nd Year,Medical form,50 - 75%,Average,Good,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,2nd Year,"Co-curricular form, Night-out form",25 - 50%,Needs Improvement,Average,Medium,A couple of days,Bad,Only a few,Online submission process,Maybe
+Male,MSC DS,2nd Year,Night-out form,0 - 25%,Average,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,MSC DS,2nd Year,Night-out form,75 - 100%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,No
+Male,MSC DS,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Hard,More than a week,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,None,75 - 100%,Needs Improvement,Average,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA LLB,2nd Year,"Co-curricular form, Night-out form",0 - 25%,Good,Good,Medium,One day,Good,At all times,Offline submission process,Maybe
+Female,MSC DS,1st Year,Medical form,0 - 25%,Needs Improvement,Bad,Hard,A week,Needs Improvement,Only a few,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,0 - 25%,Average,Average,Medium,A week,Average,Only a few,Online submission process,Maybe
+Female,MSC EA,1st Year,None,0 - 25%,Average,Good,Medium,More than a week,Good,Only a few,Online submission process,Maybe
+Male,MSC DS,1st Year,None,0 - 25%,Average,Bad,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Co-curricular form,0 - 25%,Excellent,Good,Hard,One day,Needs Improvement,Mostly approved,Offline submission process,Maybe
+Male,MSC DS,1st Year,None,25 - 50%,Needs Improvement,Average,Medium,A couple of days,Average,Only a few,Online submission process,No
+Male,MSC DS,1st Year,Medical form,25 - 50%,Average,Need Improvement,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MSC DS,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,Medical form,0 - 25%,Needs Improvement,Average,Hard,A week,Bad,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,0 - 25%,Needs Improvement,Need Improvement,Hard,A week,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Average,Average,Medium,A couple of days,Average,Only a few,Offline submission process,Maybe
+Female,MSC EA,1st Year,None,0 - 25%,Needs Improvement,Good,Hard,A couple of days,Needs Improvement,Mostly approved,Offline submission process,No
+Female,MBA,1st Year,Medical form,0 - 25%,Average,Bad,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,BA LLB,3rd Year,Co-curricular form,25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Male,BSC EA,3rd Year,Co-curricular form,50 - 75%,Good,Average,Easy,A few hours,Good,At all times,Online submission process,Yes
+Male,BSC EA,3rd Year,Co-curricular form,0 - 25%,Needs Improvement,Average,Hard,One day,Average,At all times,Online submission process,Yes
+Male,MBA,1st Year,None,0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BSC DS,3rd Year,Medical form,0 - 25%,Needs Improvement,Bad,Medium,A week,Bad,Only a few,Online submission process,Yes
+Female,MSC DS,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Average,Medium,A few hours,Needs Improvement,Only a few,Online submission process,Yes
+Female,BBA LLB,1st Year,Co-curricular form,75 - 100%,Good,Average,Medium,More than a week,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BSC EA,3rd Year,Night-out form,25 - 50%,Good,Average,Hard,A week,Average,Only a few,Online submission process,Maybe
+Male,BSC EA,3rd Year,Co-curricular form,25 - 50%,Needs Improvement,Average,Medium,One day,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC EA,1st Year,None,0 - 25%,Needs Improvement,Average,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,BBA LLB,2nd Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BBA,3rd Year,"Co-curricular form, Medical form",25 - 50%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BBA LLB,1st Year,Co-curricular form,0 - 25%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC DS,2nd Year,Night-out form,0 - 25%,Needs Improvement,Good,Medium,One day,Good,Only a few,Offline submission process,Maybe
+Male,BA LLB,2nd Year,"Medical form, Night-out form",0 - 25%,Bad,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA LLB,1st Year,"Medical form, None",0 - 25%,Bad,Bad,Medium,A couple of days,Bad,Only a few,Online submission process,Yes
+Male,MSC DS,1st Year,"Co-curricular form, Medical form",0 - 25%,Good,Good,Medium,A few hours,Good,Mostly approved,Offline submission process,Maybe
+Female,BBA LLB,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,50 - 75%,Average,Good,Medium,A couple of days,Average,Mostly approved,Offline submission process,Yes
+Male,BA LLB,1st Year,Medical form,25 - 50%,Needs Improvement,Need Improvement,Medium,A few hours,Needs Improvement,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,None,25 - 50%,Bad,Need Improvement,Medium,A couple of days,Average,At all times,Online submission process,Maybe
+Male,BBA LLB,1st Year,"Medical form, Night-out form",75 - 100%,Needs Improvement,Average,Medium,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Average,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,50 - 75%,Excellent,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,BBA LLB,1st Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,A few hours,Average,Mostly approved,Online submission process,Yes
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Bad,Need Improvement,Hard,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Female,BA LLB,1st Year,"Medical form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A week,Average,Only a few,Offline submission process,Yes
+Male,BSC EA,3rd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Good,Need Improvement,Medium,One day,Average,At all times,Online submission process,Yes
+Male,BSC EA,3rd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Good,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BSC EA,3rd Year,Night-out form,25 - 50%,Needs Improvement,Average,Hard,A week,Average,Only a few,Online submission process,Yes
+Female,BSC EA,3rd Year,"Co-curricular form, Night-out form",50 - 75%,Needs Improvement,Need Improvement,Hard,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Male,MSC EA,1st Year,Night-out form,0 - 25%,Needs Improvement,Need Improvement,Medium,A few hours,Average,Only a few,Online submission process,No
+Male,MSC GFA,1st Year,Night-out form,0 - 25%,Good,Good,Easy,One day,Good,At all times,Online submission process,No
+Male,MSC DS,1st Year,None,0 - 25%,Bad,Good,Hard,One day,Bad,Only a few,Online submission process,Maybe
+Male,BBA,1st Year,"Medical form, Night-out form",50 - 75%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Offline submission process,Maybe
+Female,MSC DS,1st Year,Night-out form,0 - 25%,Needs Improvement,Average,Medium,One day,Needs Improvement,At all times,Online submission process,Yes
+Female,BA LLB,1st Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,BSC EA,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Good,Easy,A week,Good,Mostly approved,Offline submission process,Yes
+Female,BBA,1st Year,Night-out form,0 - 25%,Average,Bad,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Female,BSC EA,2nd Year,None,25 - 50%,Average,Average,Medium,A few hours,Average,At all times,Online submission process,Yes
+Male,BA LLB,1st Year,"Co-curricular form, Night-out form",0 - 25%,Good,Bad,Hard,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,MSC DS,1st Year,Medical form,0 - 25%,Bad,Average,Medium,A few hours,Good,Mostly approved,Online submission process,Maybe
+Male,BSC DS,2nd Year,Medical form,0 - 25%,Good,Average,Hard,One day,Needs Improvement,Only a few,Offline submission process,Yes
+Female,BSC EA,1st Year,"Night-out form, None",25 - 50%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Offline submission process,Maybe
+Male,BA LLB,1st Year,Night-out form,0 - 25%,Average,Good,Easy,A few hours,Average,Mostly approved,Offline submission process,Maybe
+Female,MA ENGLISH,1st Year,None,0 - 25%,Average,Good,Medium,One day,Excellent,At all times,Online submission process,No
+Female,MSC DS,1st Year,Medical form,0 - 25%,Average,Need Improvement,Hard,One day,Bad,Only a few,Online submission process,Maybe
+Female,BSC EA,1st Year,Medical form,0 - 25%,Average,Need Improvement,Hard,A couple of days,Average,At all times,Online submission process,Yes
+Male,BA LLB,1st Year,Night-out form,50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,No
+Male,BA LLB,1st Year,None,0 - 25%,Good,Average,Medium,A few hours,Average,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Need Improvement,Medium,A few hours,Needs Improvement,Only a few,Online submission process,Yes
+Female,BSC EA,2nd Year,"Co-curricular form, Medical form",25 - 50%,Average,Average,Medium,More than a week,Average,Mostly approved,Offline submission process,No
+Female,BSC DS,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,75 - 100%,Bad,Bad,Easy,A few hours,Bad,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Good,Good,Medium,A few hours,Needs Improvement,At all times,Offline submission process,Yes
+Female,MSC DS,1st Year,Co-curricular form,0 - 25%,Good,Good,Medium,A week,Good,Mostly approved,Offline submission process,Yes
+Female,BSC EA,1st Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Good,Average,Medium,One day,Good,Mostly approved,Online submission process,Maybe
+Male,MSC DS,2nd Year,"Co-curricular form, Medical form",0 - 25%,Good,Good,Easy,A couple of days,Good,Mostly approved,Offline submission process,No
+Male,MSC DS,1st Year,None,0 - 25%,Average,Average,Medium,A week,Average,Only a few,Online submission process,Yes
+Male,BBA LLB,1st Year,None,75 - 100%,Needs Improvement,Good,Medium,One day,Good,Mostly approved,Online submission process,Maybe
+Female,BSC EA,2nd Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Needs Improvement,Bad,Medium,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Male,MSC DS,2nd Year,"Medical form, Night-out form",75 - 100%,Excellent,Average,Medium,A few hours,Good,Mostly approved,Offline submission process,No
+Male,MSC DS,1st Year,Night-out form,25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BSC EA,1st Year,"Medical form, Night-out form",50 - 75%,Average,Need Improvement,Medium,One day,Good,Mostly approved,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Night-out form",0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Bad,Medium,A week,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC EA,3rd Year,Night-out form,25 - 50%,Average,Bad,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,2nd Year,Night-out form,0 - 25%,Average,Good,Easy,A few hours,Bad,Only a few,Online submission process,Yes
+Male,BBA,3rd Year,Co-curricular form,0 - 25%,Average,Average,Medium,A couple of days,Average,Only a few,Online submission process,Yes
+Male,BBA,3rd Year,Medical form,0 - 25%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Offline submission process,Yes
+Male,BBA,3rd Year,"Co-curricular form, Medical form",25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BBA,3rd Year,Medical form,0 - 25%,Needs Improvement,Average,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Female,BBA,3rd Year,Medical form,0 - 25%,Needs Improvement,Need Improvement,Hard,A couple of days,Bad,At all times,Online submission process,Yes
+Female,BBA,3rd Year,Night-out form,0 - 25%,Average,Bad,Hard,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,BBA,3rd Year,"Co-curricular form, Night-out form",0 - 25%,Good,Need Improvement,Medium,One day,Good,Mostly approved,Online submission process,Maybe
+Male,BBA,3rd Year,Medical form,0 - 25%,Needs Improvement,Good,Easy,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Female,BA LLB,3rd Year,None,0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Offline submission process,Maybe
+Male,BBA,3rd Year,"Co-curricular form, Medical form",0 - 25%,Average,Average,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,3rd Year,Night-out form,0 - 25%,Average,Need Improvement,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,3rd Year,Medical form,75 - 100%,Good,Average,Medium,A couple of days,Average,At all times,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,"Co-curricular form, Night-out form",25 - 50%,Good,Good,Hard,A couple of days,Good,Mostly approved,Offline submission process,Yes
+Male,BBA,1st Year,Co-curricular form,25 - 50%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Offline submission process,No
+Male,BBA,1st Year,Night-out form,50 - 75%,Good,Average,Medium,A week,Average,Mostly approved,Online submission process,Yes
+Male,BBA LLB,1st Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Average,Need Improvement,Hard,A couple of days,Average,Only a few,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Night-out form",75 - 100%,Good,Good,Medium,A few hours,Average,Mostly approved,Online submission process,Maybe
+Male,BA LLB,1st Year,None,0 - 25%,Average,Bad,Hard,One day,Average,Mostly approved,Offline submission process,Yes
+Female,BA LLB,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,MSC DS,1st Year,None,75 - 100%,Average,Bad,Medium,One day,Needs Improvement,Only a few,Online submission process,Yes
+Male,MSC GFA,1st Year,"Medical form, Night-out form",0 - 25%,Needs Improvement,Bad,Hard,One day,Average,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Co-curricular form,75 - 100%,Average,Need Improvement,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,No
+Male,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Good,Need Improvement,Medium,A few hours,Good,At all times,Online submission process,Yes
+Female,MA ENGLISH,1st Year,None,0 - 25%,Average,Average,Hard,More than a week,Average,At all times,Online submission process,Yes
+Female,BA LLB,5th Year,None,0 - 25%,Good,Average,Medium,A few hours,Needs Improvement,At all times,Online submission process,Maybe
+Male,BBA LLB,1st Year,Night-out form,0 - 25%,Needs Improvement,Average,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Average,Need Improvement,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Need Improvement,Hard,A few hours,Needs Improvement,Only a few,Online submission process,Maybe
+Female,MSC DS,1st Year,Medical form,0 - 25%,Needs Improvement,Bad,Hard,A couple of days,Bad,Only a few,Online submission process,Maybe
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Average,Need Improvement,Medium,One day,Needs Improvement,Only a few,Online submission process,Yes
+Female,MBA,1st Year,None,0 - 25%,Average,Average,Medium,A couple of days,Average,Only a few,Online submission process,Yes
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",75 - 100%,Average,Need Improvement,Hard,A couple of days,Average,Mostly approved,Offline submission process,Maybe
+Male,BA LLB,1st Year,Night-out form,0 - 25%,Needs Improvement,Excellent,Hard,A week,Bad,Mostly approved,Online submission process,Yes
+Male,MBA,2nd Year,"Co-curricular form, Night-out form",25 - 50%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BA LLB,1st Year,Night-out form,0 - 25%,Good,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC EA,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Good,Average,Medium,A couple of days,Average,At all times,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Good,Good,Easy,A few hours,Good,Mostly approved,Online submission process,Maybe
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Average,Average,Medium,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC EA,2nd Year,Medical form,0 - 25%,Needs Improvement,Bad,Hard,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Female,MSC DS,2nd Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Bad,Bad,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,25 - 50%,Average,Good,Easy,One day,Average,At all times,Offline submission process,No
+Male,MSC DS,1st Year,None,25 - 50%,Excellent,Good,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Needs Improvement,Need Improvement,Hard,A week,Average,At all times,Offline submission process,Maybe
+Male,BBA,1st Year,None,0 - 25%,Average,Average,Medium,One day,Average,Only a few,Online submission process,Yes
+Female,BBA,1st Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,One day,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,1st Year,None,0 - 25%,Good,Good,Medium,One day,Average,At all times,Online submission process,No
+Male,BBA,1st Year,None,50 - 75%,Average,Good,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BBA,1st Year,"Medical form, Night-out form",0 - 25%,Needs Improvement,Average,Medium,One day,Average,Mostly approved,Offline submission process,Yes
+Male,BBA,1st Year,Medical form,0 - 25%,Average,Average,Medium,One day,Bad,Mostly approved,Online submission process,Yes
+Female,BBA,1st Year,Night-out form,50 - 75%,Needs Improvement,Average,Hard,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,0 - 25%,Bad,Need Improvement,Hard,A few hours,Bad,Only a few,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,0 - 25%,Excellent,Excellent,Medium,A couple of days,Good,Mostly approved,Offline submission process,No
+Male,BBA,1st Year,Medical form,0 - 25%,Needs Improvement,Bad,Hard,A couple of days,Bad,At all times,Online submission process,Yes
+Female,BBA,1st Year,"Co-curricular form, Medical form",25 - 50%,Average,Average,Easy,A few hours,Average,Mostly approved,Online submission process,Maybe
+Female,BBA,1st Year,Night-out form,25 - 50%,Good,Bad,Hard,One day,Average,Only a few,Online submission process,Yes
+Male,BBA,1st Year,"Medical form, Night-out form",0 - 25%,Average,Bad,Hard,A few hours,Average,At all times,Offline submission process,Yes
+Female,BBA,2nd Year,Medical form,50 - 75%,Good,Bad,Hard,More than a week,Bad,Mostly approved,Online submission process,No
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Needs Improvement,Bad,Hard,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,0 - 25%,Bad,Bad,Hard,A few hours,Bad,Mostly approved,Online submission process,Yes
+Male,BSC DS,1st Year,None,50 - 75%,Bad,Bad,Easy,A few hours,Bad,Only a few,Online submission process,Yes
+Male,BBA,3rd Year,None,0 - 25%,Needs Improvement,Need Improvement,Hard,A couple of days,Excellent,At all times,Offline submission process,Yes
+Male,BBA,1st Year,Co-curricular form,25 - 50%,Bad,Need Improvement,Easy,A couple of days,Needs Improvement,Mostly approved,Offline submission process,Yes
+Male,BBA,1st Year,Co-curricular form,75 - 100%,Excellent,Excellent,Easy,A few hours,Good,Only a few,Online submission process,Yes
+Male,BA LLB,4th Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Need Improvement,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",75 - 100%,Excellent,Good,Easy,A couple of days,Excellent,At all times,Online submission process,Yes
+Male,BBA,3rd Year,"Co-curricular form, Medical form",25 - 50%,Average,Need Improvement,Hard,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BA LLB,4th Year,Medical form,25 - 50%,Bad,Bad,Hard,A couple of days,Bad,At all times,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Medical form",0 - 25%,Average,Bad,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Average,Average,Medium,A couple of days,Average,Mostly approved,Offline submission process,Maybe
+Male,BBA,2nd Year,"Co-curricular form, Medical form",0 - 25%,Good,Average,Medium,A couple of days,Good,Mostly approved,Online submission process,Yes
+Male,BBA LLB,1st Year,Night-out form,0 - 25%,Good,Good,Easy,A few hours,Good,Mostly approved,Offline submission process,Yes
+Female,MSC DS,1st Year,Medical form,0 - 25%,Good,Good,Medium,A few hours,Average,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Average,Medium,One day,Bad,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,One day,Average,At all times,Online submission process,Yes
+Female,BA LLB,4th Year,"Co-curricular form, Medical form",0 - 25%,Good,Bad,Hard,A week,Bad,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,25 - 50%,Average,Need Improvement,Easy,A couple of days,Average,Only a few,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,0 - 25%,Needs Improvement,Need Improvement,Easy,A couple of days,Average,Only a few,Online submission process,No
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Bad,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Maybe
+Male,BBA,1st Year,None,0 - 25%,Average,Good,Medium,A few hours,Good,Only a few,Online submission process,Maybe
+Female,MBA,1st Year,None,50 - 75%,Average,Bad,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Average,Average,Hard,One day,Bad,At all times,Online submission process,Maybe
+Female,MSC DS,1st Year,Medical form,25 - 50%,Average,Need Improvement,Hard,A week,Bad,Only a few,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,0 - 25%,Average,Bad,Medium,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,50 - 75%,Needs Improvement,Need Improvement,Medium,One day,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC DS,1st Year,"Co-curricular form, None",75 - 100%,Average,Bad,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,"Medical form, Night-out form",50 - 75%,Needs Improvement,Bad,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,50 - 75%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Bad,Average,Hard,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Average,Bad,Hard,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Female,MSC DS,1st Year,"Medical form, Night-out form",0 - 25%,Good,Average,Medium,A few hours,Good,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,None,50 - 75%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Offline submission process,Yes
+Male,MSC DS,1st Year,None,0 - 25%,Average,Good,Medium,A few hours,Good,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,50 - 75%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,No
+Male,MSC DS,1st Year,None,0 - 25%,Bad,Average,Medium,A few hours,Average,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,Night-out form,0 - 25%,Needs Improvement,Average,Medium,One day,0,Only a few,Online submission process,Yes
+Male,MSC DS,1st Year,None,75 - 100%,Needs Improvement,Average,Medium,One day,Needs Improvement,Mostly approved,Offline submission process,Maybe
+Female,MSC DS,1st Year,Night-out form,50 - 75%,Bad,Bad,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Female,MSC DS,1st Year,Night-out form,0 - 25%,Average,Average,Medium,A week,Average,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Night-out form,25 - 50%,Needs Improvement,Bad,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Female,MSC DS,1st Year,None,0 - 25%,Needs Improvement,Need Improvement,Hard,One day,Needs Improvement,At all times,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,25 - 50%,Needs Improvement,Bad,Hard,One day,Bad,Mostly approved,Online submission process,Yes
+Male,MSC DS,1st Year,Medical form,25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,BA LLB,1st Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Average,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MSC GFA,1st Year,"Co-curricular form, Night-out form",0 - 25%,Excellent,Average,Easy,One day,Excellent,Only a few,Online submission process,Yes
+Male,MSC GFA,1st Year,None,0 - 25%,Needs Improvement,Average,Easy,One day,Average,Mostly approved,Offline submission process,Yes
+Male,BBA,1st Year,"Medical form, Night-out form",50 - 75%,Bad,Bad,Hard,More than a week,Bad,At all times,Online submission process,Yes
+Male,BBA,1st Year,None,0 - 25%,Average,Average,Hard,A couple of days,Good,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,"Co-curricular form, Medical form",50 - 75%,Needs Improvement,Excellent,Easy,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA,1st Year,"Co-curricular form, Medical form, None",0 - 25%,Good,Bad,Medium,More than a week,Average,Mostly approved,Online submission process,Maybe
+Male,BBA,1st Year,Night-out form,25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BA LLB,2nd Year,Medical form,25 - 50%,Needs Improvement,Bad,Hard,A week,Bad,Only a few,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,75 - 100%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Female,BA LLB,2nd Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Good,At all times,Online submission process,Yes
+Female,BA LLB,2nd Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,More than a week,Bad,At all times,Online submission process,Yes
+Male,MSC DS,2nd Year,None,0 - 25%,Average,Bad,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Male,BA LLB,2nd Year,"Co-curricular form, Medical form",50 - 75%,Needs Improvement,Need Improvement,Easy,One day,Average,Mostly approved,Online submission process,No
+Female,BSC EA,2nd Year,Night-out form,0 - 25%,Average,Bad,Medium,One day,Average,Only a few,Online submission process,Yes
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form",0 - 25%,Bad,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,0 - 25%,Needs Improvement,Bad,Hard,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA,1st Year,Night-out form,50 - 75%,Average,Need Improvement,Medium,A few hours,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,MSC GFA,1st Year,None,0 - 25%,Excellent,Bad,Easy,A few hours,Bad,At all times,Online submission process,Yes
+Female,BBA,1st Year,"Co-curricular form, Medical form",25 - 50%,Average,Average,Easy,A week,Average,Mostly approved,Online submission process,Maybe
+Female,BBA,1st Year,"Co-curricular form, Medical form",25 - 50%,Average,Need Improvement,Medium,A week,Average,Mostly approved,Online submission process,Maybe
+Male,BBA LLB,1st Year,Medical form,50 - 75%,Average,Need Improvement,Hard,More than a week,Needs Improvement,Only a few,Online submission process,Yes
+Female,BA LLB,1st Year,Night-out form,0 - 25%,Good,Need Improvement,Medium,A few hours,Needs Improvement,Mostly approved,Offline submission process,Yes
+Male,BBA,1st Year,Night-out form,25 - 50%,Good,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BBA,1st Year,None,25 - 50%,Needs Improvement,Need Improvement,Hard,More than a week,Needs Improvement,Only a few,Online submission process,No
+Female,BA LLB,1st Year,None,0 - 25%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,25 - 50%,Needs Improvement,Bad,Medium,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BA LLB,1st Year,Night-out form,25 - 50%,Needs Improvement,Need Improvement,Easy,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA LLB,1st Year,None,25 - 50%,Average,Good,Medium,A couple of days,Average,Only a few,Online submission process,Yes
+Male,BA LLB,1st Year,None,0 - 25%,Good,Average,Hard,A couple of days,Average,Only a few,Offline submission process,Yes
+Male,BBA LLB,2nd Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Average,Medium,A couple of days,Bad,At all times,Online submission process,Maybe
+Female,BA LLB,2nd Year,Co-curricular form,0 - 25%,Average,Bad,Hard,More than a week,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,"Co-curricular form, Night-out form",0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,No
+Male,BA LLB,5th Year,Co-curricular form,25 - 50%,Needs Improvement,Good,Hard,A week,Bad,Only a few,Online submission process,Yes
+Female,BBA LLB,5th Year,"Co-curricular form, Night-out form",0 - 25%,Average,Average,Medium,One day,Average,At all times,Offline submission process,No
+Male,BBA,3rd Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Needs Improvement,Good,Medium,A couple of days,Bad,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Night-out form,0 - 25%,Average,Excellent,Medium,One day,Good,At all times,Online submission process,No
+Female,BA LLB,2nd Year,"Co-curricular form, Night-out form",50 - 75%,Needs Improvement,Good,Medium,One day,Good,Mostly approved,Offline submission process,Yes
+Female,BA LLB,2nd Year,None,0 - 25%,Needs Improvement,Need Improvement,Easy,A few hours,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,50 - 75%,Average,Need Improvement,Hard,A week,Needs Improvement,Only a few,Online submission process,Yes
+Female,MBA,1st Year,Medical form,0 - 25%,Average,Need Improvement,Hard,A week,Average,At all times,Online submission process,Maybe
+Female,MBA,1st Year,Night-out form,50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Good,Medium,A couple of days,Good,At all times,Offline submission process,No
+Female,BA LLB,2nd Year,Night-out form,25 - 50%,Bad,Need Improvement,Hard,A couple of days,Bad,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,75 - 100%,Good,Average,Hard,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,50 - 75%,Average,Bad,Hard,More than a week,Bad,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Medical form,0 - 25%,Bad,Bad,Hard,More than a week,Bad,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,75 - 100%,Bad,Average,Hard,One day,Bad,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Average,Medium,A couple of days,Average,At all times,Online submission process,Yes
+Male,MBA,1st Year,Co-curricular form,25 - 50%,Needs Improvement,Good,Medium,One day,Good,At all times,Offline submission process,Yes
+Male,MBA,1st Year,Night-out form,75 - 100%,Needs Improvement,Average,Medium,A few hours,Bad,Mostly approved,Offline submission process,Maybe
+Female,MBA,1st Year,"Medical form, Night-out form",75 - 100%,Bad,Need Improvement,Hard,A couple of days,Average,Only a few,Online submission process,Yes
+Male,MBA,2nd Year,Medical form,25 - 50%,Needs Improvement,Average,Medium,A week,Average,Mostly approved,Online submission process,Yes
+Female,BA LLB,2nd Year,"Medical form, Night-out form",25 - 50%,Average,Good,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BA LLB,3rd Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Average,Average,Medium,A week,Average,At all times,Offline submission process,Yes
+Male,MBA,1st Year,Night-out form,25 - 50%,Average,Average,Medium,A few hours,Average,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,75 - 100%,Average,Need Improvement,Easy,A few hours,Good,Mostly approved,Offline submission process,Yes
+Male,MBA,1st Year,"Medical form, Night-out form",25 - 50%,Average,Bad,Hard,More than a week,Average,Only a few,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,At all times,Online submission process,Yes
+Male,MBA,1st Year,Co-curricular form,25 - 50%,Average,Good,Easy,A couple of days,Good,At all times,Offline submission process,No
+Male,MBA,1st Year,Medical form,0 - 25%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Average,Need Improvement,Medium,A week,Average,At all times,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,0 - 25%,Needs Improvement,Good,Easy,A few hours,Needs Improvement,At all times,Offline submission process,No
+Male,MBA,1st Year,Co-curricular form,25 - 50%,Average,Average,Medium,A couple of days,Good,At all times,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,50 - 75%,Average,Average,Medium,A few hours,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,75 - 100%,Needs Improvement,Need Improvement,Hard,A week,Bad,Only a few,Online submission process,Yes
+Female,MSC EA,1st Year,Co-curricular form,50 - 75%,Average,Need Improvement,Medium,One day,Excellent,Only a few,Offline submission process,No
+Female,MBA,1st Year,Medical form,25 - 50%,Needs Improvement,Bad,Hard,A week,Bad,Mostly approved,Online submission process,Yes
+Female,MBA,1st Year,Night-out form,50 - 75%,Average,Average,Medium,A few hours,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Bad,Bad,Hard,A week,Bad,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Bad,At all times,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,75 - 100%,Good,Good,Easy,A few hours,Excellent,Mostly approved,Offline submission process,No
+Female,BA LLB,2nd Year,Night-out form,0 - 25%,Bad,Need Improvement,Medium,One day,Average,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,None,0 - 25%,Average,Average,Easy,A few hours,Average,At all times,Online submission process,Maybe
+Female,BSC DS,3rd Year,Medical form,25 - 50%,Average,Average,Medium,A couple of days,Bad,At all times,Online submission process,Maybe
+Female,BA LLB,1st Year,Medical form,25 - 50%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Offline submission process,No
+Female,BBA LLB,1st Year,"Co-curricular form, Medical form",25 - 50%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,BBA,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA,2nd Year,"Co-curricular form, Night-out form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,2nd Year,Medical form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MSC GFA,2nd Year,Medical form,25 - 50%,Average,Average,Medium,A week,Needs Improvement,At all times,Online submission process,Maybe
+Male,BBA,1st Year,Co-curricular form,25 - 50%,Needs Improvement,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,3rd Year,Night-out form,0 - 25%,Needs Improvement,Need Improvement,Medium,One day,Average,At all times,Online submission process,No
+Male,MBA,1st Year,None,0 - 25%,Excellent,Excellent,Easy,A few hours,Good,At all times,Offline submission process,Maybe
+Male,MBA,1st Year,Night-out form,0 - 25%,Excellent,Excellent,Easy,A few hours,Excellent,At all times,Offline submission process,No
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BBA,2nd Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,At all times,Online submission process,Maybe
+Female,BBA LLB,1st Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Average,Hard,A week,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,1st Year,Co-curricular form,25 - 50%,Needs Improvement,Need Improvement,Medium,One day,Needs Improvement,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Medical form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,0 - 25%,Average,Good,Medium,A couple of days,Good,At all times,Offline submission process,No
+Female,BA LLB,2nd Year,"Co-curricular form, Medical form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,BBA LLB,2nd Year,"Co-curricular form, Night-out form",25 - 50%,Needs Improvement,Good,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA,2nd Year,"Co-curricular form, Medical form, Night-out form",25 - 50%,Needs Improvement,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,BSC DS,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Hard,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Bad,Need Improvement,Medium,A couple of days,Bad,Mostly approved,Online submission process,Yes
+Female,BBA LLB,1st Year,"Medical form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,25 - 50%,Needs Improvement,Need Improvement,Medium,One day,Average,At all times,Online submission process,No
+Male,BBA,2nd Year,"Co-curricular form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Needs Improvement,Average,Hard,A week,Average,Mostly approved,Offline submission process,Maybe
+Female,MSC DS,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,BBA LLB,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Female,MBA,1st Year,Night-out form,50 - 75%,Good,Need Improvement,Medium,One day,Average,Mostly approved,Online submission process,No
+Female,BBA,2nd Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Needs Improvement,Bad,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,BBA,2nd Year,"Medical form, Night-out form",25 - 50%,Average,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,BBA,1st Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Female,BBA,1st Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,50 - 75%,Average,Bad,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,BBA LLB,1st Year,"Co-curricular form, Medical form",25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BA LLB,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Night-out form,25 - 50%,Average,Average,Medium,A couple of days,Average,At all times,Offline submission process,Maybe
+Male,MBA,1st Year,Co-curricular form,25 - 50%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Need Improvement,Medium,A week,Average,At all times,Offline submission process,Yes
+Male,MBA,1st Year,Night-out form,50 - 75%,Needs Improvement,Need Improvement,Hard,A couple of days,Needs Improvement,At all times,Online submission process,Yes
+Male,MBA,1st Year,Medical form,50 - 75%,Average,Good,Medium,A couple of days,Average,At all times,Offline submission process,No
+Female,MBA,1st Year,Medical form,0 - 25%,Bad,Bad,Hard,More than a week,Bad,Only a few,Online submission process,Yes
+Male,MBA,1st Year,Night-out form,50 - 75%,Good,Good,Easy,A few hours,Excellent,At all times,Offline submission process,No
+Male,BBA,1st Year,"Co-curricular form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,MSC GFA,1st Year,Medical form,0 - 25%,Average,Average,Medium,A week,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,BSC EA,1st Year,"Medical form, Night-out form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MSC GFA,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BBA LLB,1st Year,"Co-curricular form, Medical form",50 - 75%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Maybe
+Female,BBA LLB,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Need Improvement,Easy,A couple of days,Needs Improvement,Mostly approved,Online submission process,Yes
+Male,MBA,1st Year,"Co-curricular form, Medical form",0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,BBA,1st Year,Co-curricular form,0 - 25%,Average,Need Improvement,Medium,A couple of days,Needs Improvement,Only a few,Online submission process,Maybe
+Male,BBA LLB,1st Year,Night-out form,0 - 25%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Night-out form,25 - 50%,Average,Average,Medium,A few hours,Needs Improvement,Only a few,Online submission process,Yes
+Male,BA LLB,1st Year,Medical form,0 - 25%,Needs Improvement,Average,Medium,A week,Average,Only a few,Online submission process,Maybe
+Female,BA LLB,1st Year,Medical form,0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,BBA LLB,1st Year,Co-curricular form,50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MSC DS,1st Year,Medical form,50 - 75%,Average,Average,Medium,A week,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Bad,Hard,A couple of days,Average,At all times,Online submission process,Yes
+Male,BBA,2nd Year,Night-out form,50 - 75%,Average,Average,Medium,More than a week,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,50 - 75%,Average,Average,Medium,A week,Average,Only a few,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,25 - 50%,Bad,Bad,Hard,More than a week,Average,Mostly approved,Offline submission process,Yes
+Male,BA LLB,1st Year,Medical form,50 - 75%,Needs Improvement,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,0 - 25%,Good,Average,Medium,One day,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BSC DS,1st Year,Medical form,50 - 75%,Average,Need Improvement,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,25 - 50%,Average,Need Improvement,Medium,One day,Needs Improvement,At all times,Offline submission process,Yes
+Male,BBA,2nd Year,"Co-curricular form, Medical form",25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,BBA,1st Year,Medical form,25 - 50%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,BBA LLB,2nd Year,"Medical form, Night-out form",50 - 75%,Average,Average,Medium,A week,Average,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Hard,A couple of days,Average,At all times,Offline submission process,Maybe
+Female,MSC EA,1st Year,Medical form,50 - 75%,Average,Good,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Female,MSC DS,1st Year,"Co-curricular form, Medical form",50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Need Improvement,Hard,A week,Bad,At all times,Online submission process,Yes
+Male,BA LLB,1st Year,Co-curricular form,50 - 75%,Average,Average,Medium,A week,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,25 - 50%,Average,Average,Hard,A week,Bad,At all times,Offline submission process,Yes
+Male,MSC EA,1st Year,"Medical form, Night-out form",50 - 75%,Average,Average,Medium,A couple of days,Average,Mostly approved,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Needs Improvement,Average,Medium,A couple of days,Average,At all times,Offline submission process,Yes
+Female,MSC DS,2nd Year,Medical form,50 - 75%,Average,Average,Medium,One day,Average,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Night-out form,25 - 50%,Needs Improvement,Need Improvement,Medium,A couple of days,Needs Improvement,Mostly approved,Online submission process,Maybe
+Male,BBA LLB,1st Year,"Co-curricular form, Night-out form",25 - 50%,Average,Average,Medium,A couple of days,Average,Only a few,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,25 - 50%,Average,Average,Easy,One day,Average,Mostly approved,Offline submission process,Maybe
+Male,MBA,1st Year,Night-out form,0 - 25%,Average,Average,Easy,One day,Average,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Night-out form,50 - 75%,Average,Average,Medium,A week,Good,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Medical form,0 - 25%,Bad,Bad,Hard,More than a week,Bad,Only a few,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Bad,Bad,Easy,One day,Average,Mostly approved,Online submission process,Yes
+Male,BBA,3rd Year,"Co-curricular form, Medical form, Night-out form",50 - 75%,Needs Improvement,Need Improvement,Hard,A week,Average,Mostly approved,Online submission process,Maybe
+Female,MBA,1st Year,Medical form,25 - 50%,Bad,Bad,Hard,More than a week,Bad,Mostly approved,Online submission process,Yes
+Male,BBA,1st Year,Medical form,50 - 75%,Average,Need Improvement,Medium,A couple of days,Average,Mostly approved,Online submission process,Maybe
+Male,MBA,1st Year,Night-out form,50 - 75%,Average,Average,Hard,A couple of days,Average,Mostly approved,Offline submission process,No
+Female,MBA,1st Year,Night-out form,0 - 25%,Bad,Bad,Hard,A few hours,Bad,At all times,Online submission process,Yes
+Female,MBA,1st Year,Co-curricular form,0 - 25%,Bad,Need Improvement,Easy,A few hours,Average,At all times,Offline submission process,Yes

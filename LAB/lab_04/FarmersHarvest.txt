@@ -1,0 +1,49 @@
+name:	roy
+phno:	123
+item:	1
+Day:	milk
+quantity:	2
+Price:	20
+Total Bill:	40
+name:	s
+phno:	12
+item:	1
+Day:	milk
+quantity:	2
+Price:	20
+Total Bill:	40
+name:	swastik
+phno:	1234
+item:	1
+Day:	milk
+quantity:	2
+Price:	20
+Total Bill:	40
+name:	swastik
+phno:	1234
+item:	1
+Day:	milk
+quantity:	2
+Price:	200
+Total Bill:	400
+name:	name
+phno:	1123
+item:	1
+Day:	milk
+quantity:	2
+Price:	20
+Total Bill:	40
+name:	c
+phno:	3
+item:	33
+Day:	3
+quantity:	3
+Price:	3
+Total Bill:	9
+name:	s
+phno:	1
+item:	1
+Day:	m
+quantity:	2
+Price:	12
+Total Bill:	24
